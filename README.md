@@ -34,10 +34,3 @@
 
 ---
 
-## 📦 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Aakashdoraisamy/automax-car-sale-platform.git
-cd automax-car-sale-platform
