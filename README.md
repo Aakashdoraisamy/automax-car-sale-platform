@@ -19,7 +19,7 @@
 ![Car Listings](./images/view.png)
 
 ### 👤 User Profile
-![User Profile](./images/web_profile.png)
+![User Profile](./images/profile.png)
 
 ---
 
