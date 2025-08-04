@@ -19,7 +19,7 @@
 ![Car Listings](./images/view.png)
 
 ### 👤 User Profile
-![User Profile](./images/profile.png)
+![User Profile](https://github.com/Aakashdoraisamy/automax-car-sale-platform/blob/main/images/profile.png)
 
 ---
 
