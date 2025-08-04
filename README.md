@@ -16,10 +16,10 @@
 ![Sign In](./images/sign_in.png)
 
 ### 🚘 Car Listings
-![Car Listings](./images/view.png)
+![User Profile](./images/profile.png)
 
 ### 👤 User Profile
-![User Profile](./images/profile.png)
+![Car Listings](./images/view.png)
 
 ---
 
