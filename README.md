@@ -7,7 +7,7 @@
 ![Register](./images/register.png)
 ![Sign In](./images/sign_in.png)
 ![Car Listings](./images/view.png)
-![User Profile](./images/web_profile.png)
+![User Profile](./images/profile.png)
 
 ---
 
