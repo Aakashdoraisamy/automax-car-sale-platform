@@ -26,11 +26,9 @@
 
 ## 🛠 Tech Stack
 
-| Frontend     | Backend      | Database   | Tools/Other            |
-|--------------|--------------|------------|-------------------------|
-| HTML/CSS     | Python       | PostgreSQL | Git & GitHub           |
-| JavaScript   | Flask        | SQLAlchemy | dotenv (env variables) |
-| Bootstrap    | Jinja2 Templating |        |                        |
-
+- Python, Django
+- HTML, CSS, Bootstrap
+- PostgreSQL (coming soon)
+- Deployed on: (to be added)
 ---
 
