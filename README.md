@@ -40,7 +40,7 @@
 
 - **Backend:** Python, Django
 - **Frontend:** HTML, CSS, Bootstrap
-- **Database:** PostgreSQL *(setup required)*
+- **Database:** PostgreSQL 
 - **Version Control:** Git & GitHub
 
 ---
